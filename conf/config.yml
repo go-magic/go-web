@@ -1,0 +1,9 @@
+mysql:
+  sql: root:asqwe#%ACs192@tcp(192.168.243.129:3306)/oa?charset=utf8&parseTime=True&loc=Local
+  user: root
+  password: asqwe#%ACs192
+  port: 3306
+  name: oa
+sys:
+  port: 8080
+
